@@ -19,7 +19,7 @@ I created this map for day 3 of the 30 day map challenge, which was all about po
 <img src="assets/img/showcase_london_urabn_green.png" alt="London Urban Green Spaces" width="400" style="display:block;margin:auto;">
 <br/><br/>
 
-My first contribution to the 30 day map challenge: I wanted something fast and fun to look at.
+My first contribution to the 30 day map challenge.
 
 <img src="assets/img/showcase_accidents_DE.jpg" alt="Accidents DE" width="400" style="display:block;margin:auto;">
 <br/><br/>
