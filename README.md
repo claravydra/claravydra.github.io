@@ -30,7 +30,7 @@ A fun map on the (limited) running routes in Longyearbyen on Svalbard in the Arc
 <br/><br/>
 
 ## Scientific maps
-Different regions of the Arctic as defined by NSIDC-0780 SeaIceRegions EASE2-N25km and an animation showing a daily location of the MOSAiC expedition on top of SnowModel-LG. SM-LG models snow depth on sea ice. Made it for the final report and presentation of an internship at UiT Tromsø.
+Different regions of the Arctic as defined by NSIDC-0780 SeaIceRegions EASE2-N25km and an animation showing a daily location of the MOSAiC expedition on top of SnowModel-LG. SM-LG models snow depth on sea ice. I made them for the final report and presentation of an internship at UiT Tromsø.
 
 
 <div style="display:flex; gap:10px;">
