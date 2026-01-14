@@ -29,7 +29,17 @@ A fun map on the (limited) running routes in Longyearbyen on Svalbard in the Arc
 <img src="assets/img/showcase_LYB_running_tracks.jpg" alt="Accidents DE" width="400" style="display:block;margin:auto;">
 <br/><br/>
 
+A 3D render of the Alps in Blender with an elevation-dependent color ramp.
+
+<img src="assets/img/showcase_alps.png" alt="Alps 3D" width="400" style="display:block;margin:auto;">
+<br/><br/>
+
 ## Scientific maps
+An overview map of the Alps and its riparian countries.
+
+<img src="assets/img/scientific_alps.jpg" alt="Overview Locations Chennai" width="400" style="display:block;margin:auto;">
+<br/><br/>
+
 Different regions of the Arctic as defined by NSIDC-0780 SeaIceRegions EASE2-N25km and an animation showing a the location of the MOSAiC expedition on top of SnowModel-LG. SM-LG models snow depth on sea ice. I made them for the final report and presentation of an internship at UiT Tromsø.
 
 
